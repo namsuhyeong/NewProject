@@ -2,3 +2,4 @@
 *.txt
 *.docx
 *.parquet
+*.env
