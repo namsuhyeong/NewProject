@@ -81,7 +81,7 @@ def generate_response(context, query):
         return f"응답 생성 실패: {str(e)}"
 
 # Streamlit 애플리케이션
-st.title("국회회의록록 챗봇")
+st.title("국회회의록 챗봇")
 st.markdown("Qdrant와 GPT를 활용하여 국회 회의록 데이터를 기반으로 질문에 답변하는 챗봇입니다.")
 
 # 사용자 입력
